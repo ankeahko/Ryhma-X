@@ -5,4 +5,4 @@ refrigerator
 
 Cool fridge stands so tall,
 Keeps food fresh with its power,
-Test complete, success.
+Test complete, success..
